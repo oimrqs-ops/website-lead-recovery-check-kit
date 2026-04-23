@@ -78,3 +78,11 @@ This is for public pages the client owns or is authorized to review. It is not
 a crawler, spam tool, inbox verifier, SEO blaster, CAPTCHA bypass, or private
 analytics extractor. Do not commit private site exports, customer form
 submissions, credentials, or analytics data into this repo.
+
+## OIMRQS Ops Context
+
+This repo is part of the OIMRQS Ops public proof shelf: focused programming and technical-ops work across web, internal tools, automations, data cleanup, dashboards, APIs, webhooks, QA and handoff.
+
+- Site: https://oimrqs-ops.x9kqz.uk/
+- Portfolio: https://oimrqs-ops.x9kqz.uk/portfolio/
+- Proof library: https://oimrqs-ops.x9kqz.uk/proof/
