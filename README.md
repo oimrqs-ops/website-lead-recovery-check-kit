@@ -1,14 +1,21 @@
 # Website Lead Recovery Check Kit
 
-Small dependency-free Python kit for first-pass website lead-path reviews.
+Public proof kit for finding where a service website is losing lead capture before a buyer pays for a redesign.
 
-It is built for a focused 1-day delivery slice:
+It demonstrates a practical paid diagnostic pattern:
 
 - read a local HTML file or a public URL;
 - inspect title, meta description, viewport, canonical, contact forms, and common CTA/contact paths;
 - flag missing lead paths such as `mailto:`, `tel:`, WhatsApp, booking/contact pages, and visible forms;
 - write a Markdown summary plus machine-readable JSON output;
 - leave a short handoff so the next operator knows what to fix first.
+
+## Buyer Confidence Checks
+
+- Maps the money path before redesign: CTA, contact, booking, mobile viewport, forms, and missing routes.
+- Produces reviewable evidence: exact missing lead paths, pass/fail counts, JSON output, and first-fix priorities.
+- Fits service sites, local businesses, WordPress pages, portfolio sites, and agency overflow work where lost inquiries matter.
+- Keeps the boundary public: no private analytics, inbox verification, scraping, spam, credentials, CAPTCHA bypass, or fake revenue claims.
 
 ## Why this exists
 
@@ -84,5 +91,6 @@ submissions, credentials, or analytics data into this repo.
 This repo is part of the OIMRQS Ops public proof shelf: focused programming and technical-ops work across web, internal tools, automations, data cleanup, dashboards, APIs, webhooks, QA and handoff.
 
 - Site: https://oimrqs-ops.x9kqz.uk/
+- Examples: https://oimrqs-ops.x9kqz.uk/examples/
 - Portfolio: https://oimrqs-ops.x9kqz.uk/portfolio/
 - Proof library: https://oimrqs-ops.x9kqz.uk/proof/
